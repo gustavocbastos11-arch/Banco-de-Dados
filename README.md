@@ -1,3 +1,3 @@
 # Banco-de-Dados
 
-# Cristiane e madureira
+# Professores: Cristiane e madureira
